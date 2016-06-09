@@ -1,0 +1,23 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CodeChallenge - neo4j" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.develmagic.codechallenge.Neo4jCodeChallengeApplication" />
+    <option name="ACTIVE_PROFILES" value="neo4j" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <additionalParameters>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="logging.level" />
+        <option name="value" value="DEBUG" />
+      </param>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="logging.org" />
+        <option name="value" value="DEBUG" />
+      </param>
+    </additionalParameters>
+    <module name="codechallenge" />
+    <envs />
+    <method />
+  </configuration>
+</component>

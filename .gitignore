@@ -1,0 +1,6 @@
+.idea/libraries/*
+.idea/workspace.xml
+neo4j.db/
+src/test/java/com/develmagic/codechallenge/repository/neo4j/
+target/
+.travis.yml
