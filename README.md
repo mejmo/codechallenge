@@ -1,9 +1,14 @@
 # CodeChallenge
+
+## Problem
+
+This assignement was given on 1st round of Number26 Hiring process. Let's have some transaction tree and we must implement CRUD operations and one method from business logic - find a sum of the transactions which are located under the node in transaction tree. Simple.
+
+## Solution 
+
 Technologies used:
 * spring boot, neo4j, spring data, Java8, SDN4
 * Mockito, JUnit
-
-## Problem
 
 Two approaches has been implemented.
 
